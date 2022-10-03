@@ -77,9 +77,11 @@ public class Excercises {
 		    }
 		    array[Index_position] = newValue;
 		    System.out.println("New Array: "+Arrays.toString(array));
+		}
+	}
 	  
 		  
-	} 
+
 
 
 
